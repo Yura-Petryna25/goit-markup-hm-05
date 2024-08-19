@@ -151,6 +151,7 @@ h6 {
 .future {
   padding-top: 120px;
   padding-bottom: 120px;
+  margin: auto;
 }
 .section-head {
   font-weight: 500;
@@ -618,7 +619,7 @@ ol {
   color: #8e8f99;
   margin-bottom: 16px;
 }
-.modal-form-label-coment {
+/* .modal-form-label-coment {
   font-weight: 400;
   font-size: 12px;
   line-height: 1.17;
@@ -626,7 +627,7 @@ ol {
   color: #8e8f99;
   display: block;
   margin-bottom: 4px;
-}
+} */
 .modal-textarea {
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
